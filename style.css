@@ -1,0 +1,11 @@
+body {
+	background-color: #a4a8f5;
+}
+
+.container {
+	background-color: white;
+	margin: auto;
+	width: 800px;
+ 	padding: 15px;
+ 	text-align: center;
+ 	box-shadow: 10px 10px #7d80bd;
